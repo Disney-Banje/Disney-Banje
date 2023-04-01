@@ -1,6 +1,9 @@
-## Banje Disney
+## Hey I am Banje Disney
 
-HEY. I am driven by a passion for creating things and turning ideas into tangible products. With a focus on front-end development, constantly expanding my skillset through hands-on projects and a relentless drive to improve. Despite being at the learning stage, I am eager to learn and have a successful career in tech.
+- I am driven by a passion for creating things and turning ideas into tangible products.
+- With a focus on front-end development, constantly expanding my skillset through hands-on projects and a relentless drive to improve.
+- Despite being at the learning stage, I am eager to learn and have a successful tech career.
+
 
 ### Tech Stacks
 
