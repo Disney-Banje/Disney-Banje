@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👨‍💻 Disney | Cousnay 👨‍💻</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Web+Developer;JavaScript+Enthusiast;Fullstack+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Web+Developer;JavaScript+Enthusiast;Fullstack+Aspirant;Anime+Lover;Photographer" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -50,6 +50,38 @@
     - Dennis Ritchie
   </footer>
 </blockquote>
+
+<br>
+<h2 align="center">📷 Photography</h2>
+
+<p align="center">
+  <em>Capturing moments, one frame at a time</em>
+</p>
+
+<div align="center">
+  <a href="[YOUR_PHOTOGRAPHY_PORTFOLIO_LINK](https://unsplash.com/@disney_)">
+    <img src="https://img.shields.io/badge/My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1718709032395-a3d1d4a35dc7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8N3x8fGVufDB8fHx8fA%3D%3D" width="200px" alt="Photo 1"/>
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1719595478224-2a9a7fd967df?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NXx8fGVufDB8fHx8fA%3D%3D" width="200px" alt="Photo 2"/>
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1720449161249-bc461c2a98b6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D" width="200px" alt="Photo 3"/>
+    </td>
+    <td align="center">
+      <img src="https://images.unsplash.com/photo-1718708382517-3e89131709a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8OXx8fGVufDB8fHx8fA%3D%3D" width="200px" alt="Photo 4"/>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">🎬 Anime Enthusiast 🎬</h2>
 <p align="center"><em>Huge fan of Hayao Miyazaki and Isao Takahata</em></p>
