@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👨‍💻 Disney | Cousnay 👨‍💻</h1>
+  <h1>👨‍💻 Disney 👨‍💻</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Web+Developer;JavaScript+Enthusiast;Fullstack+Aspirant;Anime+Lover;Photographer" alt="Typing SVG" />
 </div>
 
