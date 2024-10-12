@@ -37,7 +37,6 @@
 
 <p align="center">
   <a href="https://www.frontendmentor.io/profile/Disney-Banje">🎨 Challenges</a> •
-  <a href="https://x.com/Cousnay">🤝 Connect</a>
 </p>
 
 
