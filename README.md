@@ -33,11 +33,6 @@
   <code>journey.forEach(path => learn(path));</code>
 </p>
 
-<br>
-
-<p align="center">
-  <a href="https://www.frontendmentor.io/profile/Disney-Banje">🎨 Challenges</a> •
-</p>
 
 
 <!---
